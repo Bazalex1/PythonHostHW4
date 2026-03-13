@@ -4,7 +4,7 @@ import requests
 import streamlit as strl
 import asyncio
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://pythonhosthw4.onrender.com"
 
 
 strl.set_page_config(page_title='Dashboard', layout="wide")
